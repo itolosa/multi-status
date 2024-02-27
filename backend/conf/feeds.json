@@ -430,5 +430,20 @@
   },
   "IONOS Cloud": {
     "feed": "https://status.ionos.cloud/history.atom"
-  }  
+  },
+  "MongoDB Cloud": {
+    "feed": "https://status.mongodb.com/history.atom"
+  },
+  "Google Workspace": {
+    "feed": "https://www.google.com/appsstatus/dashboard/en/feed.atom"
+  },
+  "Notion": {
+    "feed": "https://status.notion.so/history.atom"
+  },
+  "Justworks": {
+    "feed": "https://status.justworks.com/history.atom"
+  },
+  "Codio": {
+    "feed": "https://status.codio.com/history.atom"
+  }
 }
